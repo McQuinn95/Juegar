@@ -1,2 +1,0 @@
-# Juegar
-Para juegar
